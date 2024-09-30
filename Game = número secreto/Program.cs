@@ -1,6 +1,4 @@
-﻿using System.Reflection.Metadata.Ecma335;
-
-Random aleatorio = new Random();
+﻿Random aleatorio = new Random();
 int numeroSecreto = aleatorio.Next(1, 15);
 
 do
